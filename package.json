@@ -1,0 +1,29 @@
+{
+  "name": "task_8.3",
+  "version": "1.0.0",
+  "description": "example 8.3",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ka-es/task_8.3.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "ka-es",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ka-es/task_8.3/issues"
+  },
+  "homepage": "https://github.com/ka-es/task_8.3#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
