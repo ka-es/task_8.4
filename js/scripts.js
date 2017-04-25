@@ -4,7 +4,7 @@ console.log('Witaj, ' + name);
 
 // first comment
 
-/* secont
+/* 	second
 	very
 	long
 	comment
